@@ -1,0 +1,6 @@
+name = "hiatt-link"
+routes = [
+	{ pattern = "hiatt.link", custom_domain = true }
+]
+main = "src/index.ts"
+compatibility_date = "2022-09-16"
