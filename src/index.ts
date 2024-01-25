@@ -21,6 +21,7 @@ export interface Env {
 
 const links: Record<string, string> = {
   bjj: "https://grapplebjj.com",
+  "living-on-the-edge": "https://docs.google.com/presentation/d/1qEr2vs_tTX_jv5Xmh-2xSk7iUBwdYVB2uceNOIl5CIo/",
   me: "https://jchiatt.com",
   twitter: "https://twitter.com/jchiatt",
 };
