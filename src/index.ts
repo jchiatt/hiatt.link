@@ -20,10 +20,20 @@ export interface Env {
 }
 
 const links: Record<string, string> = {
+  blog: "https://jchiatt.com/articles/",
   bjj: "https://grapplebjj.com",
-  "living-on-the-edge": "https://docs.google.com/presentation/d/1qEr2vs_tTX_jv5Xmh-2xSk7iUBwdYVB2uceNOIl5CIo/",
+  "living-on-the-edge":
+    "https://docs.google.com/presentation/d/1qEr2vs_tTX_jv5Xmh-2xSk7iUBwdYVB2uceNOIl5CIo/",
+  coaching: "https://www.skool.com/dev-career-coaching/about",
+  dailywebchallenge: "https://quiz.typeform.com/to/IiAhacIr",
+  "daily-web-challenge": "https://quiz.typeform.com/to/IiAhacIr",
+  github: "https://github.com/jchiatt",
+  instagram: "https://www.instagram.com/jchiatt/",
+  learnarena: "https://learnarena.com",
+  linkedin: "https://www.linkedin.com/in/jchiatt/",
   me: "https://jchiatt.com",
   twitter: "https://twitter.com/jchiatt",
+  x: "https://twitter.com/jchiatt",
 };
 
 const statusCode = 301;
