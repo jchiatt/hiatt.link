@@ -25,8 +25,8 @@ const links: Record<string, string> = {
   "living-on-the-edge":
     "https://docs.google.com/presentation/d/1qEr2vs_tTX_jv5Xmh-2xSk7iUBwdYVB2uceNOIl5CIo/",
   coaching: "https://www.skool.com/dev-career-coaching/about",
-  dailywebchallenge: "https://quiz.typeform.com/to/IiAhacIr",
-  "daily-web-challenge": "https://quiz.typeform.com/to/IiAhacIr",
+  dailywebchallenge: "https://quiz.typeform.com/to/GLTv7dGl",
+  "daily-web-challenge": "https://quiz.typeform.com/to/GLTv7dGl",
   github: "https://github.com/jchiatt",
   instagram: "https://www.instagram.com/jchiatt/",
   learnarena: "https://learnarena.com",
