@@ -36,7 +36,7 @@ const links: Record<string, string> = {
   x: "https://twitter.com/jchiatt",
 };
 
-const statusCode = 301;
+const statusCode = 302;
 
 export default {
   async fetch(
