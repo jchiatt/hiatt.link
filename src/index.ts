@@ -29,6 +29,7 @@ const links: Record<string, string> = {
   "daily-web-challenge": "https://quiz.typeform.com/to/GLTv7dGl",
   github: "https://github.com/jchiatt",
   instagram: "https://www.instagram.com/jchiatt/",
+  ig: "https://www.instagram.com/jchiatt/",
   learnarena: "https://learnarena.com",
   linkedin: "https://www.linkedin.com/in/jchiatt/",
   me: "https://jchiatt.com",
